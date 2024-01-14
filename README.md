@@ -10,11 +10,13 @@ The Crime Data folder serves as a comprehensive repository for various crime-rel
 
 - **SLL (Special and Local Laws) Data (2014-2021):** Detailed records of cognizable crimes categorized under Special and Local Laws are available in Annexures- III and III-A.
   
-- **IPC (Indian Penal Code) Data (2008 | National Crime Records Bureau) (2014-2021):** A compilation of data pertaining to offenses classified under the Indian Penal Code.
+- **IPC (Indian Penal Code) Data (2008 | National Crime Records Bureau) (2014-2021):** A compilation of data about offenses classified under the Indian Penal Code.
 
 - **Crime Against Women:** Specifically curated data highlighting crimes against women in Punjab.
 
 - **Cyber Crime:** Data focusing on cyber-related offenses within the state.
+
+- **Biomass Mapping for Power Generation for Punjab:** Data focusing on Jalandhar District.
 
 ### 2. Air Quality Data Punjab
 
