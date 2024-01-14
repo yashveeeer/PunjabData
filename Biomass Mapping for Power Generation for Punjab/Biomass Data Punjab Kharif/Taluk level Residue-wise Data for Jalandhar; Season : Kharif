@@ -1,0 +1,30 @@
+District	Taluk	Crop	Residue	Area (kHa)	Crop Production (kT/Yr)	Biomass Generation (kT/Yr)	Biomass Surplus (kT/Yr)	Power Potential (MWe)
+Jalandhar	Jalandhar-I	Paddy	Straw	24.5	82.4	123.6	98.9	11.9
+Jalandhar	Jalandhar-I	Paddy	Husk	24.5	82.4	16.5	13.2	1.5
+Jalandhar	Jalandhar-I	Maize	Stalks	3.9	11.8	23.7	4.7	0.62
+Jalandhar	Jalandhar-I	Maize	Cobs	3.9	11.8	5.9	1.8	0.25
+Jalandhar	Jalandhar-I	Others	Others	0.81	0.37	0.92	0.092	0.012
+Jalandhar	Jalandhar-I	Total		29.2	94.6	170.6	118.7	14.2
+Jalandhar	Jalandhar-II	Paddy	Straw	10.9	36.8	55.2	44.2	5.3
+Jalandhar	Jalandhar-II	Maize	Stalks	4.4	13.2	26.4	5.3	0.69
+Jalandhar	Jalandhar-II	Paddy	Husk	10.9	36.8	7.4	5.9	0.65
+Jalandhar	Jalandhar-II	Maize	Cobs	4.4	13.2	6.6	2	0.28
+Jalandhar	Jalandhar-II	Others	Others	0.2	0.091	0.23	0.023	0.003
+Jalandhar	Jalandhar-II	Total		15.5	50.1	95.8	57.3	6.9
+Jalandhar	Nakodar	Paddy	Straw	29.2	98.4	147.6	118.1	14.2
+Jalandhar	Nakodar	Paddy	Husk	29.2	98.4	19.7	15.7	1.7
+Jalandhar	Nakodar	Maize	Stalks	2.3	6.9	13.8	2.8	0.36
+Jalandhar	Nakodar	Maize	Cobs	2.3	6.9	3.4	1	0.14
+Jalandhar	Nakodar	Others	Others	0.15	0.07	0.17	0.017	0.0022
+Jalandhar	Nakodar	Total		31.6	105.4	184.7	137.6	16.4
+Jalandhar	Phillaur	Paddy	Straw	60.1	202.3	303.5	242.8	29.1
+Jalandhar	Phillaur	Paddy	Husk	60.1	202.3	40.5	32.4	3.6
+Jalandhar	Phillaur	Maize	Stalks	3.8	11.6	23.2	4.6	0.6
+Jalandhar	Phillaur	Maize	Cobs	3.8	11.6	5.8	1.7	0.24
+Jalandhar	Phillaur	Others	Others	0.87	0.41	0.91	0.12	0.015
+Jalandhar	Phillaur	Total		64.7	214.3	373.8	281.6	33.6
+Jalandhar	Shahkot	Paddy	Straw	7.4	24.9	37.4	29.9	3.6
+Jalandhar	Shahkot	Paddy	Husk	7.4	24.9	5	4	0.44
+Jalandhar	Shahkot	Maize	Stalks	1.9	5.8	11.5	2.3	0.3
+Jalandhar	Shahkot	Maize	Cobs	1.9	5.8	2.9	0.87	0.12
+Jalandhar	Shahkot	Total		9.3	30.7	56.8	37	4.4
