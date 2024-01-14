@@ -18,7 +18,6 @@ The Crime Data folder serves as a comprehensive repository for various crime-rel
 
 ### 2. Air Quality Data Punjab
 
-### 3. - Biomass Mapping for Power Generation for Punjab
+### 3. Biomass Mapping for Power Generation for Punjab
 - Data focusing on Jalandhar District.
-- 
 Explore the air quality data for Punjab in this section.
