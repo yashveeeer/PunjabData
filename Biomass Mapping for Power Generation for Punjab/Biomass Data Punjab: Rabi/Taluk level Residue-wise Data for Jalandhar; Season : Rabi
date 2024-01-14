@@ -1,0 +1,30 @@
+District	Taluk	Crop	Residue	Area (kHa)	Crop Production (kT/Yr)	Biomass Generation (kT/Yr)	Biomass Surplus (kT/Yr)	Power Potential (MWe)
+Jalandhar	Jalandhar-I	Wheat	Stalks	32	150.3	225.4	45.1	5.9
+Jalandhar	Jalandhar-I	Wheat	Pod	32	150.3	45.1	22.5	3.2
+Jalandhar	Jalandhar-I	Mustard	Stalks	0.91	1.3	2.3	1.1	0.15
+Jalandhar	Jalandhar-I	Mustard	Husk	0.91	1.3	1.1	1.1	0.13
+Jalandhar	Jalandhar-I	Arhar	Stalks	0.94	0.84	2.1	0.63	0.082
+Jalandhar	Jalandhar-I	Others	Others	0.0084	0.01	0.27	0.027	0.0032
+Jalandhar	Jalandhar-I	Total		33.8	152.4	276.3	70.5	9.4
+Jalandhar	Jalandhar-Il	Wheat	Stalks	11.9	55.8	83.7	16.7	2.2
+Jalandhar	Jalandhar-Il	Wheat	Pod	11.9	55.8	16.7	8.4	1.2
+Jalandhar	Jalandhar-Il	Mustard	Stalks	0.38	0.53	0.95	0.47	0.062
+Jalandhar	Jalandhar-Il	Mustard	Husk	0.38	0.53	0.47	0.45	0.054
+Jalandhar	Jalandhar-Il	Others	Others	0.0024	0.0011	0.0017	0.00063	8.17E-05
+Jalandhar	Jalandhar-Il	Total		12.2	56.3	101.9	26	3.5
+Jalandhar	Nakodar	Wheat	Stalks	34.8	163.8	245.8	49.2	6.4
+Jalandhar	Nakodar	Wheat	Pod	34.8	163.8	49.2	24.6	3.4
+Jalandhar	Nakodar	Mustard	Stalks	0.48	0.68	1.2	0.61	0.079
+Jalandhar	Nakodar	Mustard	Husk	0.48	0.68	0.61	0.58	0.069
+Jalandhar	Nakodar	Others	Others	0.33	0.39	0.61	0.17	0.023
+Jalandhar	Nakodar	Total		35.6	164.9	297.3	75.1	10
+Jalandhar	Phillaur	Wheat	Stalks	57.3	269.3	403.9	80.8	10.5
+Jalandhar	Phillaur	Wheat	Pod	57.3	269.3	80.8	40.4	5.7
+Jalandhar	Phillaur	Sunflower	Stalks	2.6	3.6	7.1	1.4	0.19
+Jalandhar	Phillaur	Mustard	Stalks	0.32	0.45	0.8	0.4	0.052
+Jalandhar	Phillaur	Others	Others	0.1	0.13	0.59	0.4	0.048
+Jalandhar	Phillaur	Total		60.3	273.4	493.2	123.4	16.4
+Jalandhar	Shahkot	Wheat	Stalks	31.3	147.3	220.9	44.2	5.7
+Jalandhar	Shahkot	Wheat	Pod	31.3	147.3	44.2	22.1	3.1
+Jalandhar	Shahkot	Others	Others	0.23	0.16	0.3	0.1	0.013
+Jalandhar	Shahkot	Total		31.5	147.4	265.4	66.4	8.8
