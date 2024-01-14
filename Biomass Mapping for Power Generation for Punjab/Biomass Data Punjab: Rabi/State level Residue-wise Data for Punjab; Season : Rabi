@@ -1,0 +1,11 @@
+Crop	Residue	Area (kHa)	Crop Production (kT/Yr)	Biomass Generation (kT/Yr)	Biomass Surplus (kT/Yr)	Power Potential (MWe)
+Wheat	Stalks	3435.1	15568.9	23353.3	4670.7	607.2
+Wheat	Pod	3435.1	15568.9	4670.7	2335.3	326.9
+Mustard	Stalks	40.2	49	88.1	44.1	5.7
+Mustard	Husk	40.2	49	44.1	41.9	5
+Barley	Stalks	17.4	60.5	78.7	7.9	1
+Arhar	Stalks	5.7	4.8	11.9	3.6	0.46
+Sunflower	Stalks	5.7	8.1	16.3	3.3	0.42
+Gram	Stalks	2.4	1.9	2	1.8	0.24
+Others	Others	4.8	3.2	6.7	0.67	0.086
+Total		3511.3	15696.3	28271.8	7109.1	947.1
